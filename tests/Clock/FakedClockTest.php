@@ -9,7 +9,6 @@ declare(strict_types=1);
 
 namespace Tests\JeckelLab\Clock\Clock;
 
-use Cassandra\Date;
 use DateTimeImmutable;
 use DateTimeZone;
 use JeckelLab\Clock\Clock\FakedClock;
