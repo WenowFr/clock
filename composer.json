@@ -40,5 +40,10 @@
     },
     "suggest": {
         "codeception/codeception": "Use helper to handle clock with your codeception tests"
+    },
+    "config": {
+        "allow-plugins": {
+            "phpro/grumphp": true
+        }
     }
 }
