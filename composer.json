@@ -1,5 +1,5 @@
 {
-    "name": "wenowfr/clock",
+    "name": "wenow/clock",
     "description": "Clock abstraction library",
     "type": "library",
     "license": "MIT",
