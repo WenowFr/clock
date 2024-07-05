@@ -15,7 +15,7 @@ A clock abstraction library for PHP which allow to mock system clock when testin
 # Installation
 
 ```bash
-composer require wenowfr/clock
+composer require wenow/clock
 ```
 
 ## Usage
