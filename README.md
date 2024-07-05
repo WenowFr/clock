@@ -1,7 +1,12 @@
-[![Latest Stable Version](https://poser.pugx.org/jeckel-lab/clock/v/stable)](https://packagist.org/packages/jeckel-lab/clock)
-[![Total Downloads](https://poser.pugx.org/jeckel-lab/clock/downloads)](https://packagist.org/packages/jeckel-lab/clock)
-[![Build Status](https://github.com/jeckel-lab/clock/workflows/validate/badge.svg)](https://github.com/Jeckel-Lab/clock/actions)
-[![codecov](https://codecov.io/gh/jeckel-lab/clock/branch/master/graph/badge.svg)](https://codecov.io/gh/jeckel-lab/clock)
+[![Latest Stable Version](https://poser.pugx.org/wenowfr/clock/v/stable)](https://packagist.org/packages/jeckel-lab/clock)
+[![Total Downloads](https://poser.pugx.org/jeckel-lab/clock/downloads)](https://packagist.org/packages/wenowfr/clock)
+[![Build Status](https://github.com/jeckel-lab/clock/workflows/validate/badge.svg)](https://github.com/wenowfr/clock/actions)
+[![codecov](https://codecov.io/gh/jeckel-lab/clock/branch/master/graph/badge.svg)](https://codecov.io/gh/wenowfr/clock)
+
+# Fork
+
+This is a fork of another library - [Jeckel-Lab/clock](https://github.com/Jeckel-Lab/clock). It is updated to use with
+the latest versions of Codeception.
 
 # Clock
 
@@ -10,7 +15,7 @@ A clock abstraction library for PHP which allow to mock system clock when testin
 # Installation
 
 ```bash
-composer require jeckel-lab/clock
+composer require wenow/clock
 ```
 
 ## Usage
